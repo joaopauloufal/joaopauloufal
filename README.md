@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Full stack web engineer from Brazil
+  Full stack web engineer and DevOps
 </p>
 
 <p align='center'>
