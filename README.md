@@ -13,12 +13,12 @@
 </p>
 <p align='center'>
   <a href="https://github.com/joaopauloufal/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopauloufal&count_private=true&show_icons=true" />
+    <img align="center" src="https://joaopauloufal.vercel.app/api?username=joaopauloufal&count_private=true&show_icons=true" />
   </a>
 </p>
 <p align='center'>
   <a href="https://github.com/joaopauloufal/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloufal&langs_count=10&layout=compact&hide=lex,shell,blade" />
+    <img align="center" src="https://joaopauloufal.vercel.app/api/top-langs/?username=joaopauloufal&langs_count=10&layout=compact&hide=lex,shell,blade" />
   </a>
 </p>
 
