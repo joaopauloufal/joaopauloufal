@@ -11,14 +11,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
 </p>
-<!--
 <p align='center'>
   <a href="https://github.com/joaopauloufal/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopauloufal&count_private=true&show_icons=true" />
   </a>
 </p>
---!>
-
 <p align='center'>
   <a href="https://github.com/joaopauloufal/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloufal&langs_count=10&layout=compact&hide=lex,shell,blade" />
