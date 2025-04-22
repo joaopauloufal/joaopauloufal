@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Full stack web engineer and DevOps
+  Full stack web engineer/DevOps/SRE
 </p>
 
 <p align='center'>
